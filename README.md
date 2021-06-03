@@ -1,0 +1,1 @@
+This project contains R code to crawl instagram, given a hashtag, download information about posts which contain that hashtag.
